@@ -1,0 +1,46 @@
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+.heading_span{
+    color: black;
+    font-size: 15px;
+}
+button{
+    width: 130px;
+    font-size: 30px;
+}
+.speed_div{
+    float: left;
+}
+.speed_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-left: 15px;
+}
+#speed{
+    margin: 15px;
+    font-size: 23px;
+}
+.vol_div{
+    float: right;
+}
+.vol_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-right: 15px;
+}
+#vol{
+    margin: 15px;
+    font-size: 23px;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
